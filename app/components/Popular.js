@@ -1,6 +1,7 @@
 import React from 'react';
 import propTypes from 'prop-types';
 import api from '../utils/api';
+import Loading from './Loading';
 
 // from class to Stateless Function Component.
 function SelectLanguage(props) {
